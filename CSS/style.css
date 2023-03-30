@@ -1,0 +1,56 @@
+.pad{
+    padding: 20px 25%;
+}
+.fondoCard{
+    background-color: rgb(44, 43, 43);
+    color:white;
+}
+.padCard{
+    padding:20px 0;
+}
+.botonFinal{
+    background-color: rgb(102, 161, 12);
+    color: white;
+    height: 50px;
+}
+.colorNavegacion{
+    background-color: aquamarine;
+
+}
+.aa{
+    position: relative;
+}
+.aloha{
+    background: linear-gradient(rgba(5,7,12,0.4),rgba(5,7,12,0.4)),url("imagenes/ba1.jpg") center center no-repeat;
+    height: 100vh;
+    position: relative;
+    background-size: cover;   
+}
+.te{
+    color: white;
+    width: 30%;
+    position: absolute;
+    left: 63%;
+    top: 50%;
+}
+.hola ul li a{
+    color:red;
+    
+}
+.hola {
+    padding-right: 5%;
+    justify-content: end;
+}
+.ty{
+    position: relative;
+}
+.epo{
+
+    bottom: 2%;
+    left: 7%;
+
+}
+.qwerty{
+    bottom: 45%;
+    left: 13%;
+}
