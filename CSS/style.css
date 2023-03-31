@@ -1,24 +1,22 @@
+
 .pad{
-    padding: 20px 25%;
+    padding: 20px 18%;
+}
+.reto{
+    margin:0 2% 0 0;
+
 }
 .fondoCard{
     background-color: rgb(44, 43, 43);
     color:white;
 }
 .padCard{
-    padding:20px 0;
+    padding:20px 0 0;
 }
 .botonFinal{
     background-color: rgb(102, 161, 12);
     color: white;
     height: 50px;
-}
-.colorNavegacion{
-    background-color: aquamarine;
-
-}
-.aa{
-    position: relative;
 }
 .aloha{
     background: linear-gradient(rgba(5,7,12,0.4),rgba(5,7,12,0.4)),url("imagenes/ba1.jpg") center center no-repeat;
@@ -34,23 +32,76 @@
     top: 50%;
 }
 .hola ul li a{
-    color:red;
+    color:white;
     
 }
 .hola {
     padding-right: 5%;
     justify-content: end;
+    
 }
-.ty{
-    position: relative;
-}
-.epo{
 
-    bottom: 2%;
-    left: 7%;
-
+.caja1{
+    display: inline-block;
+    margin-left: 45%;
 }
-.qwerty{
-    bottom: 45%;
-    left: 13%;
+.caja2{
+    display: inline-block;
+    margin-left: 1%;
+    color:white;
+}
+.barra1{
+    background-color:rgb(52, 51, 53);
+    
+}
+.caja p{
+    color:white;
+    
+}
+.hola ul li a span{
+    color:green;
+    
+}
+
+.barra2{
+    background-color: darkslateblue;
+    align-items: center;
+}
+.bordesBarra{
+    margin-top: 10px;
+    padding: 0;
+}
+.hola2 {
+    padding-right: 0;
+    justify-content: center;   
+}
+.hola2 ul li a{
+    color: white;
+    margin: 0;
+    width: 7vw;
+    height: 5vh;
+    margin:0 55px;
+    padding:10px 10px;
+    text-align: center;
+}
+.dibu{
+    padding-right: 1px;
+}
+.container p{
+    margin: 1% 0 0;
+    padding: 0;
+    display: inline-block;
+}
+.container h2{
+    
+    margin: 0;
+    padding: 0;
+}
+
+.x1{
+    text-align: start;
+    padding: 0 0 2%;
+}
+.padform{
+    padding: 1% 0 0;
 }
