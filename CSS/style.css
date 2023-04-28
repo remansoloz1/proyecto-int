@@ -7,16 +7,27 @@
 
 }
 .fondoCard{
-    background-color: rgb(44, 43, 43);
+    background-color: #353a40;
     color:white;
 }
 .padCard{
     padding:20px 0 0;
 }
 .botonFinal{
-    background-color: rgb(102, 161, 12);
+    background-color: #96c93e;
     color: white;
-    height: 50px;
+    height: 65px;
+    
+}
+.botonFinal span{
+    font-size: 2.2rem;
+
+}
+.fondoCard .card-body .card-title{
+    font-size: 2rem;
+}
+.card-text{
+    font-size: 1.1rem;
 }
 .aloha{
     background: linear-gradient(rgba(5,7,12,0.4),rgba(5,7,12,0.4)),url("imagenes/ba1.jpg") center center no-repeat;
@@ -33,7 +44,8 @@
 }
 .hola ul li a{
     color:white;
-    
+    letter-spacing: 2px;
+    word-spacing: 5px;
 }
 .hola {
     padding-right: 5%;
@@ -51,20 +63,24 @@
     color:white;
 }
 .barra1{
-    background-color:rgb(52, 51, 53);
+    background-color:#353a40;
     
+}
+.botoncito{
+    background-color:#27a844;
+    color:white;
 }
 .caja p{
     color:white;
     
 }
 .hola ul li a span{
-    color:green;
+    color:#25a842;
     
 }
 
 .barra2{
-    background-color: darkslateblue;
+    background-color:#1f4d67;
     align-items: center;
 }
 .bordesBarra{
