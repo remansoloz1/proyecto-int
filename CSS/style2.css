@@ -1,0 +1,14 @@
+.main{
+    border: red solid 10px;
+    position: static;
+}
+#hey{
+    position: inherit;
+    border: blue 2px dashed;
+    width: 20%;
+    height: 30%;
+}
+.formu{
+    width: 75%;
+
+}
